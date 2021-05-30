@@ -83,7 +83,9 @@
 			"titleBar.inactiveBackground": "#212329",
 			"titleBar.inactiveForeground": "#eeffff",
 			
+			
 			"editor.background": "#212329",
+			// "editor.background": "#092020",
 			"editor.foreground": "#eeffff",
 			"editorLineNumber.foreground": "#576773",
 			"editorLineNumber.activeForeground": "#72a8d8",
@@ -120,8 +122,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#4A5667"
+				"foreground": "#008cff"
 			}
 		},
 		{
@@ -161,7 +162,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#55D6BE"
+				"foreground": "#00ffd5"
 			}
 		},
 		{
@@ -189,9 +190,10 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#55D6BE"
+				"foreground": "#00f7ff"
 			}
 		},
+		
 		{
 			"name": "Tag",
 			"scope": [
@@ -213,7 +215,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#76E5FC"
+				"foreground": "#0595d8"
 			}
 		},
 		{
