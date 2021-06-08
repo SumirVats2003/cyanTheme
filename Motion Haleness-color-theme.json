@@ -190,7 +190,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#00f7ff"
+				"foreground": "#00d9ff"
 			}
 		},
 		
@@ -202,7 +202,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#00ffea"
+				"foreground": "#00ffbf"
 			}
 		},
 		{
